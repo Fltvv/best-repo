@@ -5,7 +5,12 @@
 2) Масштабируемость как отдельных составляющих, так и самого проекта в целом;
 3) Применяются лишь open-source библиотеки и источники для разработки.
 
-**_Ссылка на сайт проекта:_** http://iceroute.ru/#/main
+* **_Ссылка на сайт проекта:_**
+http://iceroute.ru/#/main
+* **_Ссылка на презентацию проекта:_**
+https://docs.google.com/presentation/d/1ZWueo6tXZ4zQRhzeBLtY1My1o5JOffStzjOru2YdUX8/edit#slide=id.g277ebb823e5_0_0
+* **_Ссылка на видео_**
+https://www.youtube.com/watch?v=uCcaxGPzXAk
 
 1. **_backend_** — бэк-составляющая проект;
 2. **_frontend_** — фронт-составляющая проект;
