@@ -1,5 +1,8 @@
 **Описание каталогов и файлов**
 
+Особенности:
+1) Для запуска проекта необходимо внести пароль для доступа к БД в файле connection_to_database.py (@mgarbuzenko)
+
 * **_ice_venv_** — папка виртуального окружения с установленными зависимостями;
 * **_connection_to_database.py_** — подключение к БД MySQL, включая функции для выбора, заполнения, сортировки, группировки и агрегации данных;
 * **_modeling.py_** — моделирование & оптимизация расписания движения отдельных судов посредством специализированной модификации генетического алгоритма;
@@ -8,6 +11,8 @@
 * **_testing.py_** — файл для отладки кода;
 
 **Порядок установки & запуска**
-1) pip3 install -r requirements.txt
-2) run modeling.py
-3) run caravan.py
+1) python3 -m venv ice_venv
+2) source ice_venv/bin/activate
+3) pip3 install -r requirements.txt
+4) run modeling.py
+5) run caravan.py
